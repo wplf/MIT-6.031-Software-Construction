@@ -65,7 +65,7 @@ black box and glass box testing
 
 **Path coverage**： 分支中的每个组合是否都覆盖， 指数级的复杂度
 
-http://www.eclemma.org/ 是一个而非常好的测试工具。
+http://www.eclemma.org/ 是一个非常好的测试工具。
 
 
 
